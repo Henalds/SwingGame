@@ -6,7 +6,7 @@ MonoDevelop 4.0.1
 
 Tiled2Unity
 
-Tile 0.11.0
+Tiled 0.11.0
 
 
 # Useful Tutorials:

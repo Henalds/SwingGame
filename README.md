@@ -19,6 +19,10 @@ How to create maps with Tiled:
 
 https://www.youtube.com/watch?v=wQmeaDhIzms
 
+Android Development tutorials:
+
+http://developer.android.com/training/index.html
+
 # Side Jobs
 
 - Make a test map with Tiled, make sure it only has one layer for all the collision (just makes thing simpler)

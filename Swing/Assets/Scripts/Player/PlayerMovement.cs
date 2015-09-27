@@ -15,6 +15,12 @@ public class PlayerMovement : MonoBehaviour {
 	void Start () {
 		GetComponent<Rigidbody2D>().freezeRotation = true;
 	}
+
+	//Adds slider bar to GUI
+	public float hSliderValue = 0.0F;
+	void OnGUI() {
+		hSliderValue = GUI.HorizontalSlider(new Rect(25, 25, 100, 30), hSliderValue, 0.0F, 10.0F);
+	}
 	
 	// Update is called once per frame
 	void Update () {

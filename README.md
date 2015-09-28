@@ -31,4 +31,4 @@ http://developer.android.com/training/index.html
 
 Sam: Shooting Rope, rope physics and swinging physics
 
-Konrad: Sliding bar fir player movement
+Konrad: Sliding bar for player movement

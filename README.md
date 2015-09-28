@@ -31,4 +31,4 @@ http://developer.android.com/training/index.html
 
 Sam: Shooting Rope, rope physics and swinging physics
 
-Konrad: Getting Swing to run on a phone through Unity
+Konrad: Sliding bar fir player movement
